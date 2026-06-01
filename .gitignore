@@ -1,0 +1,16 @@
+# API keys
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated FAISS index
+faiss_index/
+
+# macOS
+.DS_Store
